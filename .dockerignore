@@ -1,0 +1,14 @@
+node_modules
+.next
+out
+data
+backups
+.git
+.gitignore
+.env
+.env.*
+!.env.example
+*.log
+tsconfig.tsbuildinfo
+vibe_images
+vitest.config.ts
